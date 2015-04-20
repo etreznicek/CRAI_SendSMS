@@ -1,0 +1,6 @@
+c:\users\eric\documents\visual studio 2013\Projects\SendText\SendText\bin\Debug\SendText.exe.config
+c:\users\eric\documents\visual studio 2013\Projects\SendText\SendText\obj\Debug\SendText.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2013\Projects\SendText\SendText\bin\Debug\SendText.exe
+c:\users\eric\documents\visual studio 2013\Projects\SendText\SendText\bin\Debug\SendText.pdb
+c:\users\eric\documents\visual studio 2013\Projects\SendText\SendText\obj\Debug\SendText.exe
+c:\users\eric\documents\visual studio 2013\Projects\SendText\SendText\obj\Debug\SendText.pdb
